@@ -1,7 +1,7 @@
 <html>
 <body>
 
-<div class="title1"><h1>Welcome to Vodachem Pharmaceutical</h1></div>
+<!--  div class="title1"><h1>Welcome to Vodachem Pharmaceutical</h1></div -->
 
 <div class="text_left_1">
 
