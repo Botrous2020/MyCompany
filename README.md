@@ -19,9 +19,9 @@
 
 
 
-<div  style="text-align:right;">
-<h2   >  نظــام المبيعات </h2>
-<p><a href="https://192.168.1.7//myprojects/input_items.php">  ملف اسعار الادوية </a></p>
+<div>
+<h2  style="text-align:right;" >  نظــام المبيعات </h2>
+<p style="text-align:right;" ><a href="https://192.168.1.7//myprojects/input_items.php">  ملف اسعار الادوية </a></p>
 </div>
 
 
