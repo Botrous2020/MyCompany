@@ -5,7 +5,7 @@
 
 <div class="text_left_1">
 
-<p>&nbsp;</p>
+<!-- p>&nbsp;</p -->
 
 <p><span style="font-size:18px"><span style="font-family:tahoma,geneva,sans-serif"><span style="color:#B22222"><strong><span style="font-family:arial,helvetica,sans-serif"><span style="font-size:20px">Vodachem Pharmaceuticals</span></span></strong></span><span style="font-size:20px"><span style="font-family:arial,helvetica,sans-serif">&nbsp;</span></span>is a fast growing pharmaceutical company located in Egypt with a challenging objective to extend beyond the geographical borders.</span></span></p>
 
