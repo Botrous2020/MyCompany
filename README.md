@@ -21,7 +21,7 @@
 
 <div>
 <h2  style="text-align:right;" >  نظــام المبيعات </h2>
-<p style="text-align:right;" ><a href="https://41.41.222.4//myprojects/input_items.php">  ملف اسعار الادوية  </a></p>
+<!-- p style="text-align:right;" ><a href="https://41.41.222.4//myprojects/input_items.php">  ملف اسعار الادوية  </a></p>
   <p style="text-align:right;" ><a href="https://41.41.222.4//myprojects/input_order1.php"> فواتير شركة النصر للادوية </a></p>
 </div>
  
